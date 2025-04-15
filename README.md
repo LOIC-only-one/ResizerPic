@@ -72,7 +72,3 @@ Le script génère des logs pour suivre les étapes du traitement. Les messages 
 ## Contribuer 🤝
 
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour signaler des problèmes.
-
-## Licence 📜
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'informations.
